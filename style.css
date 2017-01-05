@@ -212,8 +212,9 @@ body {
 /*portfolio*/
 .portfolio {
 	width: 1260px;
-	height: 750px;
+	height: 100%;
     margin-left: 150px;
+    margin-bottom: 20px;
 }
 .portfolio h2 {
 	padding-left: 400px;
